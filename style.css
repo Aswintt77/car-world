@@ -1,0 +1,9 @@
+.container h1 {
+    font-size: 70pt;
+    font-family: 'Luckiest Guy';
+    color: #000000;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-shadow:2px 4px 6px rgb(42, 114, 208)
+    }
+  
